@@ -1,2 +1,0 @@
-border collie
-husky
